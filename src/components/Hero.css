@@ -1,6 +1,6 @@
 .hero {
     height: 100vh;
-    background-image: url('/stranger-things/public/images/will.webp');
+    background-image: url('/images/will.webp');
     background-size: cover;
     background-position: center;
     position: relative;
@@ -11,7 +11,7 @@
     background-position: 40% 7% !important;
     position: absolute;
     inset: 0;
-    background-image: url('/stranger-things/public/images/vecna.png');
+    background-image: url('/images/vecna.png');
     background-size: cover;
     background-position: center;
     pointer-events: none;

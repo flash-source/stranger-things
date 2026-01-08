@@ -1,6 +1,6 @@
 import './Navbar.css'
 
-export default Navbar = () => {
+export const Navbar = () => {
   return (
     <nav className="navbar">
       <div className="nav-logo">STRANGER THINGS</div>

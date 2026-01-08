@@ -1,9 +1,9 @@
 import { useEffect, useRef } from 'react'
 import { motion } from 'framer-motion'
 import './Hero.css'
-import Navbar from './Navbar'
+import { Navbar } from './Navbar'
 
-export default Hero = () => {
+export const Hero = () => {
   const heroRef = useRef(null)
   const revealRef = useRef(null)
 
